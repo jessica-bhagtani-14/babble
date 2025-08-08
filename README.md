@@ -1,7 +1,6 @@
 # BABBLE - MERN Chat App
 
-A modern, full-featured real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js) and enhanced with TanStack Query, Zustand, Formik, Yup, and more.
-
+A modern, full-featured real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js).
 ---
 
 ## 🚀 Features
