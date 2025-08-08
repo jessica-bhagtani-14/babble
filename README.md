@@ -69,16 +69,4 @@ PORT=5000
 
 ---
 
-
-## 🙏 Acknowledgements
-- [React](https://react.dev/)
-- [TanStack Query](https://tanstack.com/query/latest)
-- [Zustand](https://zustand-demo.pmnd.rs/)
-- [Formik](https://formik.org/)
-- [Yup](https://github.com/jquense/yup)
-- [Socket.io](https://socket.io/)
-- [emoji-mart](https://github.com/missive/emoji-mart)
-
----
-
 Happy chatting! 💬
